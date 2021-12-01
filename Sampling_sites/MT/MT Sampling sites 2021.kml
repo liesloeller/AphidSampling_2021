@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>MT Sampling sites 2021</name>
+	<gx:CascadingStyle kml:id="__managed_style_01A7BD79BF1B93898D6D">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_12F807B2FC1B93898D6C">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.66667</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_03426D47B21B93898D6C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_12F807B2FC1B93898D6C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_01A7BD79BF1B93898D6D</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0DF4B40EBC1B938AB7A9">
+		<name>Site 1 (spring wheat)</name>
+		<LookAt>
+			<longitude>-114.2109269804679</longitude>
+			<latitude>48.08495072998583</latitude>
+			<altitude>884.2606817596179</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>520.2284953962226</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03426D47B21B93898D6C</styleUrl>
+		<Point>
+			<coordinates>-114.2121911676253,48.08453186878819,885.400296368105</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E03E8D9571B938BC4D6">
+		<name>Site 2 (spring wheat)</name>
+		<LookAt>
+			<longitude>-114.2075283880131</longitude>
+			<latitude>48.08814545518045</latitude>
+			<altitude>887.4979406630752</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>690.6731308032614</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03426D47B21B93898D6C</styleUrl>
+		<Point>
+			<coordinates>-114.2100265331585,48.08770223926406,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A8782FC961B938C259F">
+		<name>Site 3 (winter wheat)</name>
+		<LookAt>
+			<longitude>-114.2090313971689</longitude>
+			<latitude>48.08814639888393</latitude>
+			<altitude>887.3440521136293</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>998.9868883347663</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03426D47B21B93898D6C</styleUrl>
+		<Point>
+			<coordinates>-114.2064454714131,48.09035128108289,888.0836729628894</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FFCA222221B938D16C1">
+		<name>Site 4 (spring wheat)</name>
+		<LookAt>
+			<longitude>-114.1819112278172</longitude>
+			<latitude>48.09556785164756</latitude>
+			<altitude>882.793194414373</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1572.642577922379</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03426D47B21B93898D6C</styleUrl>
+		<Point>
+			<coordinates>-114.1831591181734,48.09551639762262,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08A981B7F21B938D77F0">
+		<name>Site 5 (barley)</name>
+		<LookAt>
+			<longitude>-114.1502690968761</longitude>
+			<latitude>48.09222251263902</latitude>
+			<altitude>882.5274396965492</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1676.923418382649</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03426D47B21B93898D6C</styleUrl>
+		<Point>
+			<coordinates>-114.1571573965174,48.09489048623406,883.515342709262</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07B663C1A21B938DEBDC">
+		<name>Site 6 (barley)</name>
+		<LookAt>
+			<longitude>-114.1395898989003</longitude>
+			<latitude>48.09197801850008</latitude>
+			<altitude>884.1664657235954</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1840.668893181137</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03426D47B21B93898D6C</styleUrl>
+		<Point>
+			<coordinates>-114.1441224643357,48.0949087363569,883.8285086868838</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00498AC3031B938E3C5C">
+		<name>Site 7 (winter wheat)</name>
+		<LookAt>
+			<longitude>-114.1391049245922</longitude>
+			<latitude>48.09144391142973</latitude>
+			<altitude>885.7397250974317</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5560.807464238024</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03426D47B21B93898D6C</styleUrl>
+		<Point>
+			<coordinates>-114.1392685165876,48.09395698923986,885.0637660672235</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="041AC0722E1B938E9A04">
+		<name>Site 8 (barley)</name>
+		<LookAt>
+			<longitude>-114.1278189574046</longitude>
+			<latitude>48.08985427635005</latitude>
+			<altitude>882.5773678812166</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2591.114132355724</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03426D47B21B93898D6C</styleUrl>
+		<Point>
+			<coordinates>-114.1328484907472,48.09117759179342,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03D75762541B938FAF9E">
+		<name>Site 9 (winter wheat)</name>
+		<LookAt>
+			<longitude>-114.1272252675816</longitude>
+			<latitude>48.08739305444985</latitude>
+			<altitude>882.979629270248</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2349.417384548869</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03426D47B21B93898D6C</styleUrl>
+		<Point>
+			<coordinates>-114.1319904037573,48.08939192292283,884.9909800154045</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E3D2D615F1B93900EE3">
+		<name>Site 10 (barley)</name>
+		<LookAt>
+			<longitude>-114.1302288554555</longitude>
+			<latitude>48.0849006841649</latitude>
+			<altitude>881.4727629474445</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1653.139122182038</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03426D47B21B93898D6C</styleUrl>
+		<Point>
+			<coordinates>-114.1318320209861,48.08689106865764,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

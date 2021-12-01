@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>UT Sampling sites 2021</name>
+	<description>Mfc sampling sites in Utah 2021</description>
+	<gx:CascadingStyle kml:id="__managed_style_1E69D7E4591B93820481">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.66667</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0B1312C51C1B93820482">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0C2437AE061B93820481">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1E69D7E4591B93820481</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0B1312C51C1B93820482</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="03DBCC3EC71B93820481">
+		<name>Site 1</name>
+		<LookAt>
+			<longitude>-111.8896422997799</longitude>
+			<latitude>41.88093340018258</latitude>
+			<altitude>1353.525012340941</altitude>
+			<heading>70.43570033971254</heading>
+			<tilt>44.89724130324146</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>762.539959493297</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C2437AE061B93820481</styleUrl>
+		<Point>
+			<coordinates>-111.8896423,41.8809334,1355.03914789605</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="055AE2C2E81B93837575">
+		<name>Site 2</name>
+		<LookAt>
+			<longitude>-111.9573515003622</longitude>
+			<latitude>41.9267199001299</latitude>
+			<altitude>1361.161664177798</altitude>
+			<heading>-75.79055410196729</heading>
+			<tilt>45.00000000029312</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>761.9430435993854</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C2437AE061B93820481</styleUrl>
+		<Point>
+			<coordinates>-111.9573515,41.92671989999999,1362.684366753292</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C218673B11B9384474D">
+		<name>Site 3</name>
+		<LookAt>
+			<longitude>-112.1561281994455</longitude>
+			<latitude>41.80876269988517</latitude>
+			<altitude>1331.407728722502</altitude>
+			<heading>119.9332628474742</heading>
+			<tilt>45.00000000041545</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.4799502129317</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C2437AE061B93820481</styleUrl>
+		<Point>
+			<coordinates>-112.1561282,41.8087627,1332.89714142189</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08050CC6DC1B93852CFE">
+		<name>Site 4</name>
+		<LookAt>
+			<longitude>-112.1868169997418</longitude>
+			<latitude>41.69281289992317</latitude>
+			<altitude>1307.871694689288</altitude>
+			<heading>95.95853288220935</heading>
+			<tilt>45.00000000019973</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>764.9876530512847</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C2437AE061B93820481</styleUrl>
+		<Point>
+			<coordinates>-112.186817,41.6928129,1309.334797433707</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C32D57E081B9385E53A">
+		<name>Site 5</name>
+		<LookAt>
+			<longitude>-112.1198794991798</longitude>
+			<latitude>41.69541089998717</latitude>
+			<altitude>1311.805172834567</altitude>
+			<heading>84.40244353962773</heading>
+			<tilt>45.00000000060825</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>764.9539991770145</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C2437AE061B93820481</styleUrl>
+		<Point>
+			<coordinates>-112.1198795,41.6954109,1313.272675805907</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="067CD99EB01B93867072">
+		<name>Site 6</name>
+		<LookAt>
+			<longitude>-112.1207393596069</longitude>
+			<latitude>41.69156134439191</latitude>
+			<altitude>1309.929303535331</altitude>
+			<heading>26.36762486504775</heading>
+			<tilt>44.49669857335751</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>775.1885724821033</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C2437AE061B93820481</styleUrl>
+		<Point>
+			<coordinates>-112.1207396,41.691561,1311.370179143241</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0305A4FF7C1B93875B3C">
+		<name>Site 7</name>
+		<LookAt>
+			<longitude>-112.0938167849048</longitude>
+			<latitude>41.63944122769036</latitude>
+			<altitude>1298.870210532034</altitude>
+			<heading>40.13068072094946</heading>
+			<tilt>44.93593028013413</tilt>
+			<gx:fovy>34.99992998096985</gx:fovy>
+			<range>766.1008267933357</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C2437AE061B93820481</styleUrl>
+		<Point>
+			<coordinates>-112.0938168,41.6394412,1300.323205858656</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
